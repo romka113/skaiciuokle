@@ -1,0 +1,15 @@
+/* You can add global styles to this file, and also import other style files */
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  padding: 0;
+  margin: 0;
+  background: linear-gradient(to right, #00AAFF, #00FF6C);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
